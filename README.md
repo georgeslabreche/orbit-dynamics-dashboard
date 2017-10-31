@@ -38,3 +38,6 @@ A GitHub page to simulate spacecraft orbits around a celestial body (starting wi
 
 ## v.0.4: LOS
 - Satellite line of sight circle of for the selected groundstation.
+
+## v.1.0: Prettified
+Make pretty. Work on look and feel, polish things up.
