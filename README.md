@@ -15,13 +15,15 @@ A GitHub page to simulate spacecraft orbits around a celestial body (starting wi
 - Learning curve will be smaller with jQuery.
 - Should the spacecraft be animated in orbit?
 
-**WebGL Examples:**
+**WebGL Resources:**
 - [Geoid Viewer](http://geomatica.como.polimi.it/elab/geoid/geoidViewer.html)
 - [CNES Satellites](https://experiments.withgoogle.com/search?q=satellite)
 
-**jQuery Examples:**
+**jQuery Resources:**
 - [jquery.earth-3d](http://sebastien.drouyer.com/jquery.earth-3d/)
-
+- [Differential Equation Solver](https://github.com/littleredcomputer/odex-js)
+- [ODE Solver with Numeric Javascript](http://www.numericjs.com/workshop.php?link=fdd38094da018f6071cb2d51d47c7fb3de869cb5dd0b4f3b677b480ce7ffbd31)
+- [Another ODE Solver](http://llarsen71.github.io/GMA1D/Docs/files/ODE-js.html)
 
 ## v.0.2: Groundtracks
 - World map displaying groundtrack of the spacecraft.
