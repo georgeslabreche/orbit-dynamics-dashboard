@@ -3,6 +3,9 @@
 ## Introduction
 A GitHub page to simulate spacecraft orbits around a celestial body (starting with for v.1.0).
 
+**Concerns:**
+- Processing power needed to execute all calculations. It may be very sluggish to run in Javascript.
+
 ## v.0.1: Orbits
 - **Input:** Orbit parameters raan, incl, argp, a, e, and M.
 - **Output:** 3D graph with sphere representing earth and the resulting spacecraft orbit.
